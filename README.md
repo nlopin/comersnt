@@ -13,6 +13,6 @@
 
 Записывайте статистику и показатели игры в [таблицы](https://docs.google.com/spreadsheets/d/1TWBWaTQYIxPEhz6YcleH8DjDVVe_VzunTv2RbbeEAVw/edit?usp=sharing)
 
-Оперативная связь — в [Телеграм-чате](https://t.me/joinchat/AkR73RAAu5HMbDCxG8JVTw)
+Оперативная связь — в [Телеграм-чате](https://t.me/comersnt)
 
 [English description](README-en.md)
